@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sunflowers" size="0.100000 0.131406" />
+    <ImageTarget name="self-portrait-with-necklace-of-thorns" size="0.100000 0.130081" />
+    <ImageTarget name="Bouquet_of_Flowers" size="0.100000 0.134549" />
+    <ImageTarget name="Reverend_Johannes_Elison" size="0.100000 0.139766" />
+  </Tracking>
+</QCARConfig>
